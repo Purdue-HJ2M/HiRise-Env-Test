@@ -1,0 +1,11 @@
+# Blender MTL File: 'terrain.blend'
+# Material Count: 1
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\Reshef\Downloads\HiRise\DTEEC_035172_1725_034671_1725_A01_cropped_JPG_COL.jpg
